@@ -17,3 +17,6 @@
 .blue{
 	background:blue;
 }
+#t11,#t12,#t13{
+	border:1px solid rgb(0, 0, 0);
+}
