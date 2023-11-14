@@ -1,1 +1,13 @@
-/*  your css code here. If applicable */
+.middle{
+	width:700px;
+	Border: 1px solid black;
+	border-collapse: collapse;
+	Spacing: 1px;
+	padding:1px;
+}
+#table-2{
+	margin-top:40px;
+}
+#table-3{
+	margin-top:40px;
+}
